@@ -58,14 +58,12 @@ O aplicativo realiza, a cada segundo:
 - Gradle 7.0+
 
 ### Instalação
-
 ```bash
 git clone https://github.com/seu-usuario/binary-clock-android.git
 cd binary-clock-android
 ```
 
 ### Build e Execução
-
 ```bash
 # Build do projeto
 ./gradlew build
@@ -77,7 +75,6 @@ cd binary-clock-android
 ---
 
 ## 📁 Estrutura do Projeto
-
 ```
 binary-clock-android/
 ├── app/
@@ -104,7 +101,6 @@ binary-clock-android/
 ### Conversão Decimal para Binário (4 bits)
 
 Para cada dígito decimal (0-9), a conversão segue:
-
 ```
 Dígito 7 = 0111₂ → bits: [1, 1, 1, 0] (potências 1, 2, 4, 8)
 ```
@@ -117,8 +113,12 @@ Utiliza `Handler.postDelayed()` ou `launchIn(Dispatchers.Main)` com Coroutines p
 
 ## 🎨 Interface Visual
 
-O layout segue o padrão de design proposto:
+<video width="400" height="800" controls>
+  <source src="https://github.com/fmelo006/binary_clock/raw/main/1206.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
+O layout segue o padrão de design proposto:
 ```
         ┌─────────────────────────────────┐
         │  ◉ ◉ ◉ ◉ ◉ ◉  8                │
