@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-merged_res-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/drawable_widget_bulb_on_normal.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/drawable/widget_bulb_on_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-merged_res-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/xml_binary_clock_widget_info.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/xml/binary_clock_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/drawable_widget_bulb_on_neon.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/drawable/widget_bulb_on_neon.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/drawable_widget_bulb_off_normal.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/drawable/widget_bulb_off_normal.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/layout_widget_binary_clock.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/layout/widget_binary_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-merged_res-58:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-main-60:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ArmorKing\\.gradle\\daemon\\9.0-milestone-1\\com.example.binaryclock.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.binaryclock.app-merged_res-58:/drawable_widget_bulb_off_neon.xml.flat",
+        "source": "com.example.binaryclock.app-main-60:/drawable/widget_bulb_off_neon.xml"
+    }
+]
